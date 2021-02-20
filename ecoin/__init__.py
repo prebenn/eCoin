@@ -9,7 +9,7 @@ from flask_login import LoginManager
 # Instantiate our Node
 app = Flask(__name__);
 
-app.config['SECRET_KEY'] = 'Moe Lester wants to talk to you for a Titty Attack';
+app.config['SECRET_KEY'] = 'What the fuck is good my guys';
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///site.db';
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False;
 db = SQLAlchemy(app);
