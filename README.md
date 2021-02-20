@@ -1,4 +1,4 @@
-## eCoin\
+## eCoin
 
 
 
