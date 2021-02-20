@@ -1,4 +1,6 @@
-## eCoin
+# eCoin
+
+## Control is an illusion
 
 
 
